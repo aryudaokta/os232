@@ -2,5 +2,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 20 L03 Setting up Github repository
-ZCZC W00 100 L02 Classroom attendance
 ZCZC W00 15 L04 Adjust Github pages
+ZCZC W01 100 L02 Classroom attendance
+ZCZC W01 10 L11 Downloading Debian Netinst
+ZCZC W01 10 L31 Downloading and installing VirtualBox
+ZCZC W01 40 L31 Adjust VirtualBox settings
+ZCZC W01 15 L04 Adjust Github pages
