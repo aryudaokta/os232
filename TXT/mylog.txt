@@ -9,4 +9,4 @@ ZCZC W01 10 L31 Downloading and installing VirtualBox
 ZCZC W01 40 L31 Adjust VirtualBox settings
 ZCZC W01 15 L04 Adjust Github pages
 ZCZC W02 100 L02 Classroom attendance
-ZCZC W03 60 L09 Doing Week 03 Assignment
+ZCZC W02 60 L09 Doing Week 03 Assignment
